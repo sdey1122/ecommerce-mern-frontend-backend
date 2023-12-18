@@ -2,7 +2,7 @@
 <h1>MERN Marketplace: E-commerce Platform</h1>
 
 <h3>Introduction</h3>
-<p>Welcome to MERN Marketplace! This project is a high-performance e-commerce platform built using the MERN stack. It's designed to provide a seamless, secure, and efficient online shopping experience. The platform features a dynamic user interface created with React, supported by a robust Node.js backend, ensuring real-time updates and interactions. Whether you're a developer looking to customize and deploy your own marketplace, or an interviewer exploring the depth of my technical expertise, this repository offers a comprehensive view of a modern e-commerce solution.</p>
+Welcome to MERN Marketplace! This project is a high-performance e-commerce platform built using the MERN stack. It's designed to provide a seamless, secure, and efficient online shopping experience. The platform features a dynamic user interface created with React, supported by a robust Node.js backend, ensuring real-time updates and interactions. Whether you're a developer looking to customize and deploy your own marketplace, or an interviewer exploring the depth of my technical expertise, this repository offers a comprehensive view of a modern e-commerce solution.
 <hr />
 <h2>Backend Technologies</h2>
 <strong>Node.js:</strong> Forms the runtime environment, leveraging its non-blocking, event-driven architecture for efficient data handling.<br />
