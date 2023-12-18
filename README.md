@@ -29,8 +29,9 @@ Welcome to MERN Marketplace! This project is a high-performance e-commerce platf
 <strong>Install Dependencies:</strong> Navigate to both frontend and backend directories and install the required dependencies.<br />
 <strong>Set Up Environment:</strong> Configure the necessary environment variables for both frontend and backend.<br />
 <strong>Run the Application:</strong> Use provided scripts to run both frontend and backend servers.<br />
-<strong>Explore and Customize:</strong> Dive into the code, explore its functionalities, and customize it to fit your needs or preferences.<br />
+<strong>Explore and Customize:</strong> Dive into the code, explore its functionalities, and customize it to fit your needs or preferences.
+<hr />
 <h3>Conclusion</h3>
-MERN Marketplace stands as a testament to modern web development practices, showcasing the powerful combination of MongoDB, Express, React, and Node.js. It's designed not just to meet the demands of an e-commerce platform but also to serve as a learning tool for developers and a showcase for potential employers or clients.<br />
-
-<strong>Feel free to reach out if you have any questions or need further clarification on any aspect of this project. Happy coding!</strong>
+MERN Marketplace stands as a testament to modern web development practices, showcasing the powerful combination of MongoDB, Express, React, and Node.js. It's designed not just to meet the demands of an e-commerce platform but also to serve as a learning tool for developers and a showcase for potential employers or clients.
+<hr />
+<h4>Feel free to reach out if you have any questions or need further clarification on any aspect of this project. Happy coding!</h4>
