@@ -11,7 +11,7 @@ Welcome to MERN Marketplace! This project is a high-performance e-commerce platf
 <strong>Mongoose:</strong> Offers a schema-based solution to model application data, ensuring data integrity and providing useful methods for database interactions.<br />
 <strong>Express Validator:</strong> Utilized for request validation, ensuring that data entering the application meets predefined criteria.<br />
 <strong>JWT (JSON Web Tokens):</strong> Facilitates secure transmission of information as JSON objects, integral for authentication and authorization processes.<br />
-<strong>Bcryptjs:</strong> Enhances security by hashing and salting passwords, safeguarding user information.<br />
+<strong>Bcryptjs:</strong> Enhances security by hashing and salting passwords, safeguarding user information.
 
 <h3>Frontend Technologies</h3>
 <strong>JavaScript:</strong> The scripting language providing the foundation for building dynamic and interactive web elements.<br />
